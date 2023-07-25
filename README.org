@@ -1,0 +1,10 @@
+* cl-sat.minisat
+
+CL-SAT binding to MINISAT2 @ http://minisat.se/MiniSat.html
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cl-model-languages/cl-sat.minisat.git   |
+| commit  | a3d0d84  |
+| systems | cl-sat.minisat |
+|---------+-------------------------------------------|
+
